@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>뭐 이걸 고치라고?</title>
 </head>
 <body>
 
